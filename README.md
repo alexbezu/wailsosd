@@ -1,0 +1,2 @@
+# wailsosd
+OSD HUD overlay
